@@ -1,0 +1,53 @@
+    body {
+        background-color: #f2e9e2;
+    }
+
+    h1 {
+
+        font-family: 'Montserrat', sans-serif;
+        font-size: 3rem;
+        font-weight: 700;
+    }
+
+    h3 {
+        margin: 20px 20px 20px auto;
+        color: #6C7289;
+        font-size: 1.5rem;
+        font-weight: 400;
+        letter-spacing: 0.3rem;
+    }
+
+    .product-card {
+        margin-top: 10%;
+        max-width: 720px;
+    }
+
+    .description {
+        background-color: #fff;
+    }
+
+    .old-price {
+        font-family: 'Fraunces', serif;
+        color: #6C7289;
+        font-size: 1rem;
+        text-decoration: line-through;
+    }
+
+    .price {
+        font-family: 'Fraunces', serif;
+        color: #3C8067;
+    }
+
+    .btn {
+        width: 80%;
+        background-color: #3C8067;
+        margin: 10%;
+    }
+
+    .icon {
+        color: #fff;
+        margin-right: 15px;
+    }
+    .attribution{
+        text-align: center;
+    }
